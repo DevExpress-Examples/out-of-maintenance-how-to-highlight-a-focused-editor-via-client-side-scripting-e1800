@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/HighlightFocused/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/HighlightFocused/Default.aspx.vb))
 <!-- default file list end -->
 # How to highlight a focused editor via client-side scripting
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1800/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to set the background color of ASPxEditors when they gain or loose focus.</p>
