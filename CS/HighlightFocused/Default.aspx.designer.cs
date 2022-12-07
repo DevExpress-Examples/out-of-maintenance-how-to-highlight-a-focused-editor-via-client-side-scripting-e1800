@@ -29,7 +29,7 @@ namespace HighlightFocused {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxLabel ASPxLabel1;
+        protected global::DevExpress.Web.ASPxLabel ASPxLabel1;
         
         /// <summary>
         /// ASPxTextBox1 control.
@@ -38,7 +38,7 @@ namespace HighlightFocused {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxTextBox ASPxTextBox1;
+        protected global::DevExpress.Web.ASPxTextBox ASPxTextBox1;
         
         /// <summary>
         /// ASPxLabel2 control.
@@ -47,7 +47,7 @@ namespace HighlightFocused {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxLabel ASPxLabel2;
+        protected global::DevExpress.Web.ASPxLabel ASPxLabel2;
         
         /// <summary>
         /// ASPxDateEdit1 control.
@@ -56,7 +56,7 @@ namespace HighlightFocused {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxDateEdit ASPxDateEdit1;
+        protected global::DevExpress.Web.ASPxDateEdit ASPxDateEdit1;
         
         /// <summary>
         /// ASPxLabel3 control.
@@ -65,7 +65,7 @@ namespace HighlightFocused {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxLabel ASPxLabel3;
+        protected global::DevExpress.Web.ASPxLabel ASPxLabel3;
         
         /// <summary>
         /// ASPxMemo1 control.
@@ -74,6 +74,6 @@ namespace HighlightFocused {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxMemo ASPxMemo1;
+        protected global::DevExpress.Web.ASPxMemo ASPxMemo1;
     }
 }

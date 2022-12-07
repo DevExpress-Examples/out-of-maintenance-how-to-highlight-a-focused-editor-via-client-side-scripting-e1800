@@ -32,7 +32,7 @@ Namespace HighlightFocused
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxLabel1 As Global.DevExpress.Web.ASPxEditors.ASPxLabel
+		Protected ASPxLabel1 As Global.DevExpress.Web.ASPxLabel
 
 		''' <summary>
 		''' ASPxTextBox1 control.
@@ -41,7 +41,7 @@ Namespace HighlightFocused
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxTextBox1 As Global.DevExpress.Web.ASPxEditors.ASPxTextBox
+		Protected ASPxTextBox1 As Global.DevExpress.Web.ASPxTextBox
 
 		''' <summary>
 		''' ASPxLabel2 control.
@@ -50,7 +50,7 @@ Namespace HighlightFocused
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxLabel2 As Global.DevExpress.Web.ASPxEditors.ASPxLabel
+		Protected ASPxLabel2 As Global.DevExpress.Web.ASPxLabel
 
 		''' <summary>
 		''' ASPxDateEdit1 control.
@@ -59,7 +59,7 @@ Namespace HighlightFocused
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxDateEdit1 As Global.DevExpress.Web.ASPxEditors.ASPxDateEdit
+		Protected ASPxDateEdit1 As Global.DevExpress.Web.ASPxDateEdit
 
 		''' <summary>
 		''' ASPxLabel3 control.
@@ -68,7 +68,7 @@ Namespace HighlightFocused
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxLabel3 As Global.DevExpress.Web.ASPxEditors.ASPxLabel
+		Protected ASPxLabel3 As Global.DevExpress.Web.ASPxLabel
 
 		''' <summary>
 		''' ASPxMemo1 control.
@@ -77,6 +77,6 @@ Namespace HighlightFocused
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxMemo1 As Global.DevExpress.Web.ASPxEditors.ASPxMemo
+		Protected ASPxMemo1 As Global.DevExpress.Web.ASPxMemo
 	End Class
 End Namespace
